@@ -10,7 +10,7 @@ cd ~/.config/cheat/cheatsheets/
 git clone https://github.com/cheat/cheat.git davidpangsw
 ```
 
-2. add configurations into `~/.config/cheat/conf.yml` (0=no sub-directory, 1=1 level of sub-directory)
+2. add cheatpaths configurations into `~/.config/cheat/conf.yml` (0=no sub-directory, 1=1 level of sub-directory)
 ```yml
 ...
 
